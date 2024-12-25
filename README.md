@@ -21,14 +21,6 @@ Welcome to my little slice of the GitHub universe! 🌌 I'm all about creating, 
 
 ---
 
-## 📊 My GitHub Vibes
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slimhshadow&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slimhshadow&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🌍 Let's Connect
 
 - 📝 **Blog:** [Slim's Dev Journal](https://example.com)
